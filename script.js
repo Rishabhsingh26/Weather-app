@@ -1,5 +1,4 @@
-const apiKey = "e91c178d591dcfc18b7fe40ca94cb34c";
-let chart;
+
 
 function toggleTheme() {
   document.body.classList.toggle("dark");
